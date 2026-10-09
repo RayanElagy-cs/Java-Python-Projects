@@ -2,7 +2,7 @@
 This repository contains my programming projects as I develop my computer science skills. It includes smaller programs and algorithms as well as larger projects.
 
 ## Languages:
-Python
+Python,
 Java
 
 # Projects
